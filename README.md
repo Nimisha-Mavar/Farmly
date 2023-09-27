@@ -5,7 +5,7 @@ PS Code : SIH1401
 ## Team Datails :
 Team Name : Six Seasons</br>
 
-<b>Members Details</b> :<br>
+Members Details :<br>
 1. Nimisha Mavar
 2. Zarna Pathak
 3. Nargisbanu Patel
@@ -33,9 +33,10 @@ Back end : Firebase</br>
 ## Future Enhancement
 
 ## Get in touch
-Nimisha Mavar |
-[![Linkedin] (https://www.linkedin.com/in/nimisha-mavar-04a000250/)]
-
+Nimisha Mavar </br>
+LinkedIn : https://www.linkedin.com/in/nimisha-mavar-04a000250/ </br>
+Github : https://github.com/Nimisha-Mavar </br>
+Email : mavarnimisha95764@gamil.com
 
 
 
