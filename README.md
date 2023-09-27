@@ -1,2 +1,20 @@
-# Farmly
-Farmly will be the app. It will be a platform for interaction between framers and experts. 
+## Project Details :
+Project Name : Farmly</br>
+PS Code : SIH1401
+
+## Team Datails :
+Team Name : Six Seasons</br>
+
+<b>Members Details</b> :<br>
+1. Nimisha Mavar
+2. Zarna Pathak
+3. Nargisbanu Patel
+4. Itisha Patel
+5. Vaishali Zala
+6. Jinal Panchal
+
+Contact Email : mavarnimisha95764@gmail.com
+
+## Project Overview
+
+
