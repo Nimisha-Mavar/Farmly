@@ -10,12 +10,16 @@ Members Details :<br>
 2. Zarna Pathak
 3. Nargisbanu Patel
 4. Itisha Patel
-5. Vaishali Zala
+5. Vaishalikuvarba Zala
 6. Jinal Panchal
 
 Contact Email : mavarnimisha95764@gmail.com
 
 ## Project Overview
+  - Our purpose for this project is to Give fast and Efficient Solutions for Plant/Crops Disease.
+
+  - The Goal is to make an Application which will become a platform between Farmers and Experts for detecting and giving Solutions by experts to the farmers of 
+    Plants/Crops Diseases.
 
 ## Tech Stack
 <b>App : </b></br>
@@ -23,6 +27,9 @@ Front end : React Native</br>
 Back end : Firebase</br>
 
 <b>AI Model :</b></br>
+       Yolo (Training Data Model) 
+          - labelImg(Annotation Tool)
+          - Tensorflow (Library)
 
 ## Project Features and Functionality
 
