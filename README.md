@@ -1,2 +1,2 @@
 # Farmly
-Farmly will be a application. It will be an platform for interaction between Framers and Experts.   
+Farmly will be the app. It will be a platform for interaction between framers and experts. 
