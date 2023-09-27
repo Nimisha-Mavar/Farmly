@@ -72,8 +72,8 @@ Back end : Firebase</br>
 <b>Expert Use cases</b></br>
 ![Usecase (1)](https://github.com/Nimisha-Mavar/Farmly/assets/112267753/cbe856c0-5e8c-4aa0-9775-1a768cb1823b) </br>
 
-<b>Visitor Use cases</b></br>
-![Usecase (2)](https://github.com/Nimisha-Mavar/Farmly/assets/112267753/298b15ca-e3dc-4e80-9fab-44953bc7811a)
+<b>Visitor Use cases</b></br>![image](https://github.com/Nimisha-Mavar/Farmly/assets/112267753/431a4210-1133-4450-8886-31d3ee86e2c9)
+
 
 ## Challenges and Solutions
 <b>Challenges :</b></br>
