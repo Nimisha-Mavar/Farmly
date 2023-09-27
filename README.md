@@ -17,4 +17,14 @@ Contact Email : mavarnimisha95764@gmail.com
 
 ## Project Overview
 
+## Tech Stack
+<b>App : </b></br>
+Front end : React Native</br>
+Back end : Firebase</br>
+
+<b>AI Model :</b></br>
+
+
+
+
 
