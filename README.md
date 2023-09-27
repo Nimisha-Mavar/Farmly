@@ -27,9 +27,9 @@ Front end : React Native</br>
 Back end : Firebase</br>
 
 <b>AI Model :</b></br>
-       Yolo (Training Data Model) 
-          - labelImg(Annotation Tool)
-          - Tensorflow (Library)
+       Yolo (Training Data Model) </br>
+          - labelImg(Annotation Tool) </br>
+          - Tensorflow (Library) </br>
 
 ## Project Features and Functionality
 
