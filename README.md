@@ -24,6 +24,18 @@ Back end : Firebase</br>
 
 <b>AI Model :</b></br>
 
+## Project Features and Functionality
+
+## How it works
+
+## Challenges and Solutions
+
+## Future Enhancement
+
+## Get in touch
+Nimisha Mavar |
+[![Linkedin] (https://www.linkedin.com/in/nimisha-mavar-04a000250/)]
+
 
 
 
