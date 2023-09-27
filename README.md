@@ -85,10 +85,8 @@ Back end : Firebase</br>
       - Understanding concepts behind machine learning and AI algorithms</br>
 
 <b>Solutions :</b></br>
-  - Break down the project into manageable tasks</br>
-  - Applying parameters like project requirements, and pre-requirements of  Technologie</br>
-
-## Future Enhancement
+      - Break down the project into manageable tasks</br>
+      - Applying parameters like project requirements, and pre-requirements of  Technologie</br>
 
 ## Get in touch
 Nimisha Mavar </br>
